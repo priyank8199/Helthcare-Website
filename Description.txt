@@ -1,0 +1,12 @@
+This project is about helthcare website. It is a 3 layered architecture structure:
+
+-> The UI is made using HTML CSS javascript.
+-> UI home page have image slider and a live news feed about corona virus updates.
+-> For the news feed i have used google news API.
+-> It have a login and signup section so it can be accessed by only authorized users.
+-> It have an Blood bank section so one can get details about specified blood bank in particular city and in particular Blood bank.
+-> It also have feature for online Doctors appointment and after getting appintment one gets appoinment ID along with date and time on their email.
+-> All the appointment details are stored in doctors database for therir reference.
+-> I have used MySQl as my database.
+-> Backed of the project is designed in PHP.
+  
